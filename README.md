@@ -1,0 +1,1 @@
+# rust_rainbow_six_defuser_pickup
