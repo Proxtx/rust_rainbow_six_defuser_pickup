@@ -1,0 +1,11 @@
+[package]
+name = "rust_rainbow_six_defuser_pickup"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+captrs = "0.3.1"
+shuteye = "0.3.3"
+enigo = "0.0.14"
