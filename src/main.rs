@@ -22,7 +22,7 @@ fn main() {
             Ok(ps) => {
                 if ps[1974555].r == 251 && ps[1974555].g == 201 && ps[1974555].b == 0 {
                     println!("Trigger");
-                    enigo.key_click(enigo::Key::Layout('d'));
+                    enigo.key_click(enigo::Key::Layout('f'));
                 }
             }
         }
